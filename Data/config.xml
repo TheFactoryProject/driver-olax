@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<appname_chinesesimp>4G Mobile Hotspot</appname_chinesesimp>
+<appname_english>4G Mobile Hotspot</appname_english>
+<appname_chinesetrad>4G Mobile Hotspot</appname_chinesetrad>
+<appname_dutch>4G Mobile Hotspot</appname_dutch>
+<appname_french>4G Mobile Hotspot</appname_french>
+<appname_german>4G Mobile Hotspot</appname_german>
+<appname_italian>4G Mobile Hotspot</appname_italian>
+<appname_japanese>4G Mobile Hotspot</appname_japanese>
+<appname_russian>4G Mobile Hotspot</appname_russian>
+<appname_spanish>4G Mobile Hotspot</appname_spanish>
+<appname_portuguese>4G Mobile Hotspot</appname_portuguese>
+
+<appVersion>1.0.0.1</appVersion>
+<publisher>SZXF</publisher>
+<appguid>{2E9FB287-4A37-4126-971D-692194DDCF0C}</appguid>
+<webserver>http://m.home</webserver>
+<cdromhwid>Pid_1225#Rev_0101</cdromhwid>
+<modsreg>19d212250101</modsreg>
+<rndishwid>USB\Vid_19d2#Pid_1557#Rev_0101#MI_00</rndishwid>
+
+<latestInstalled_chinesesimp>你已经安装了最新版本驱动，安装程序将退出！</latestInstalled_chinesesimp>
+<latestInstalled_english>You have installed the latest version,the installation will exit!</latestInstalled_english>
+<latestInstalled_chinesetrad>你已經安裝了最新版本驅動，安裝程序將退出！</latestInstalled_chinesetrad>
+<latestInstalled_dutch>Je hebt de laatste versie is geïnstalleerd, zal de installatie af te sluiten!</latestInstalled_dutch>
+<latestInstalled_french>avoir installé la dernière version, l'installation s'arrêtera!</latestInstalled_french>
+<latestInstalled_german>Sie die neueste Version installiert haben, stoppt die Installation!</latestInstalled_german>
+<latestInstalled_italian>di aver installato l'ultima versione, l'installazione verrà interrotta!</latestInstalled_italian>
+<latestInstalled_japanese>あなたは、ドライバの最新バージョンをインストールしている、インストーラが終了します！</latestInstalled_japanese>
+<latestInstalled_russian>Вы установили последнюю версию драйвера, инсталлятор Закройте!</latestInstalled_russian>
+<latestInstalled_spanish>de haber instalado la última versión del controlador, el instalador se cerrará!</latestInstalled_spanish>
+<latestInstalled_portuguese>De ter instalado a versão mais recente do driver, o instalador irá parar!</latestInstalled_portuguese>
+
+<newverdetec_chinesesimp>发现新版驱动！#必须卸载旧版本驱动后才能安装！ #立即卸载旧版本驱动？</newverdetec_chinesesimp>
+<newverdetec_english>The new version of the driver found!#Before the installation, you need to uninstall the old version of the driver!#Uninstall the old version of the driver now?</newverdetec_english>
+<newverdetec_chinesetrad>发现新的驅動程序版本！#必須卸載舊版本驅動後才能安裝！#立即卸載舊版本驅動？</newverdetec_chinesetrad>
+<newverdetec_dutch>Vind nieuwe drivers!#Voorafgaand aan de installatie, moet u de oude versie van de driver te verwijderen!#Nu verwijdert u de oude versie van de bestuurder?</newverdetec_dutch>
+<newverdetec_french>la nouvelle version du pilote trouvé!#Avant l'installation, vous devez désinstaller l'ancienne version du pilote!#Désinstaller l'ancienne version du pilote maintenant?</newverdetec_french>
+<newverdetec_german>Die neue Version des Treibers gefunden!#Vor der Installation müssen Sie die alte Version des Treibers deinstallieren!#Deinstallieren Sie die alte Version des Treibers jetzt?</newverdetec_german>
+<newverdetec_italian>La nuova versione del driver trovato!#Prima dell'installazione, è necessario disinstallare la vecchia versione del driver!#Disinstallare la vecchia versione del driver ora?</newverdetec_italian>
+<newverdetec_japanese>新しいバージョンのドライバが見つかりました！#インストールの前に、古いバージョンのドライバをアンインストールする必要があります!#今、ドライバの古いバージョンをアンインストールしますか？</newverdetec_japanese>
+<newverdetec_russian>Новая версия драйвера найден!#Перед установкой вы должны деинсталлируйте старую версии драйвера!#Удалите старую версий системных драйверов сейчас?</newverdetec_russian>
+<newverdetec_spanish>La nueva versión del controlador encontrado!#Antes de la instalación, debe desinstalar la versión anterior del controlador!#Desinstalar la versión anterior del controlador ahora?</newverdetec_spanish>
+<newverdetec_portuguese>A nova versão do driver encontrado!#Antes da instalação, você deve desinstalar a versão antiga do driver!#Desinstalar a versão antiga do driver agora?</newverdetec_portuguese>
+
+<errquit_chinesesimp>安装失败，安装程序将退出！</errquit_chinesesimp>
+<errquit_english>Setup failed, the installation will quit!</errquit_english>
+<errquit_chinesetrad>安裝失敗，安裝程序將退出！</errquit_chinesetrad>
+<errquit_dutch></errquit_dutch>
+<errquit_french></errquit_french>
+<errquit_german></errquit_german>
+<errquit_italian></errquit_italian>
+<errquit_japanese></errquit_japanese>
+<errquit_russian></errquit_russian>
+<errquit_spanish></errquit_spanish>
+<errquit_portuguese></errquit_portuguese>
+</config>

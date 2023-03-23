@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Actions>
+	<Action Type="Setup" Executive="Process" OS="WIN_32bit" ShowUI="FALSE" Tips="Install Driver">  
+		<Cmdline PathType="local" PathValue="Data\Setup.exe" />
+		<Param Value="" />
+        <Version RegMode="32bit" SubKey="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2E9FB287-4A37-4126-971D-692194DDCF0C}_is1" VersionKey="DisplayVersion" CurrentVersion="1.0.0.2" />
+	</Action>
+	<Action Type="Setup" Executive="Process" OS="WIN_64bit" ShowUI="FALSE" Tips="Install Driver">  
+		<Cmdline PathType="local" PathValue="Data\Setup.exe"" />
+		<Param Value="" />
+        <Version RegMode="64bit" SubKey="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2E9FB287-4A37-4126-971D-692194DDCF0C}_is1" VersionKey="DisplayVersion" CurrentVersion="1.0.0.2" />
+	</Action>
+</Actions>
